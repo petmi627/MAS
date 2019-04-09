@@ -1,4 +1,4 @@
-#MAS
+# MAS
 
 MAS short for Motion Alerting System, this script will send notification like images and text messages to a
 telegram user / group.
